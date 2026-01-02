@@ -1,0 +1,1 @@
+const service_coli = <T>(args: T): T => { return args; };
